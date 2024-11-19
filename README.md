@@ -1,5 +1,5 @@
-# [sprunki.today](https://sprunki.today/): Play Sprunki Incredibox Game Online for Free
-Play Sprunki Games online for free. Mix beats, craft melodies and unleash your creativity in these innovative music games.
+# Sprunki.today - Play Sprunki Incredibox Game Online for Free
+[Play Sprunki Games](https://sprunki.today/) online for free. Mix beats, craft melodies and unleash your creativity in these innovative music games.
 
 # What is Sprunki Incredibox?
 Sprunki Incredibox is a fan-made mod of the original Incredibox game, developed with passion by community members to enhance the core gameplay experience. This mod introduces fresh soundscapes, unique visual effects, and exciting new characters, allowing players to mix and match various beats, melodies, and effects to create their own musical masterpieces.
